@@ -1,0 +1,30 @@
+{
+	"hasTaste": false,
+	"code": 200,
+	"category": 0,
+	"result": [{
+		"name": "我用闲书成圣人",
+		"author": "出左八万里",
+		"pigurl":"https://bookcover.yuewen.com/qdbimg/349573/1028520538/180",
+		"id": "1",
+		"state": "连载中",
+		"clickNum": "10000",
+		"introduce":"开局一口棺材,陈洛的穿越从灵堂开始,这是一个读书就能获得超凡威力的世界,读儒门经典，可养浩然正气,读道门典藏，可生先天源炁,读佛门经文，可悟轮回真意."
+	}, {
+		"name": "朕",
+		"author": "王梓钧",
+		"pigurl":"https://bookcover.yuewen.com/qdbimg/349573/1028463573/180",
+		"id": "2",
+		"state": "连载中",
+		"clickNum": "10000",
+		"introduce":"回到明末,沦落为奴,这皇帝,乞丐做得,建奴做得,流寇做得,家奴就做不得?"
+	}, {
+		"name": "加一个我不太会打",
+		"author": "葛洛夫街兄弟",
+		"pigurl":"https://bookcover.yuewen.com/qdbimg/349573/1029107689/180",
+		"id": "3",
+		"state": "连载中",
+		"clickNum": "10000",
+		"introduce":"世纪初，OK横扫千军、活塞蓝领无敌、马刺单数年必胜、太阳快打旋风，篮球世界百家争鸣。李昂微微一笑，看着各位大哥:"
+	}]
+}

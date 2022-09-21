@@ -1,0 +1,44 @@
+{
+  "id": "2909169",
+  "name": "readtxt",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "903796",
+      "name": "火",
+      "font_class": "huo",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "999216",
+      "name": "书籍",
+      "font_class": "ai235",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "2380628",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "2380649",
+      "name": "排行",
+      "font_class": "paihang",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "677569",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}

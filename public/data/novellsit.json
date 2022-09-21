@@ -1,0 +1,132 @@
+{
+	"hasTaste": false,
+	"code": 200,
+	"category": 0,
+	"result": [{
+		"name": "我用闲书成圣人",
+		"author": "出左八万里",
+		"pigurl":"https://bookcover.yuewen.com/qdbimg/349573/1028520538/180",
+		"id": "1",
+		"type":"历史军事",
+		"state": "连载中",
+		"clickNum": "300000",
+		"introduce":"开局一口棺材,陈洛的穿越从灵堂开始,这是一个读书就能获得超凡威力的世界,读儒门经典，可养浩然正气,读道门典藏，可生先天源炁,读佛门经文，可悟轮回真意."
+	}, {
+		"name": "朕",
+		"author": "王梓钧",
+		"pigurl":"https://bookcover.yuewen.com/qdbimg/349573/1028463573/180",
+		"id": "2",
+		"type":"历史军事",
+		"state": "连载中",
+		"clickNum": "290000",
+		"introduce":"回到明末,沦落为奴,这皇帝,乞丐做得,建奴做得,流寇做得,家奴就做不得?"
+	}, {
+		"name": "加一个我不太会打",
+		"author": "葛洛夫街兄弟",
+		"pigurl":"https://bookcover.yuewen.com/qdbimg/349573/1029107689/180",
+		"id": "3",
+		"type":"年代风云",
+		"state": "连载中",
+		"clickNum": "280000",
+		"introduce":"世纪初，OK横扫千军、活塞蓝领无敌、马刺单数年必胜、太阳快打旋风，篮球世界百家争鸣。李昂微微一笑，看着各位大哥:"
+	}, {
+		"name": "这游戏也太真实了",
+		"author": "晨星LL",
+		"pigurl":"https://bookcover.yuewen.com/qdbimg/349573/1029391348/180",
+		"id": "4",
+		"type":"科幻奇幻",
+		"state": "连载中",
+		"clickNum": "270000",
+		"introduce":"开局一口棺材,陈洛的穿越从灵堂开始,这是一个读书就能获得超凡威力的世界,读儒门经典，可养浩然正气,读道门典藏，可生先天源炁,读佛门经文，可悟轮回真意."
+	}, {
+		"name": "大秦仙师",
+		"author": "牧尘客",
+		"pigurl":"https://z3.ax1x.com/2021/11/04/IVLZFA.png",
+		"id": "5",
+		"type":"武侠仙侠",
+		"state": "连载中",
+		"clickNum": "260000",
+		"introduce":"回到明末,沦落为奴,这皇帝,乞丐做得,建奴做得,流寇做得,家奴就做不得?"
+	}, {
+		"name": "这个军长不讲武德",
+		"author": "九天",
+		"type":"历史军事",
+		"pigurl":"https://z3.ax1x.com/2021/11/04/IVLZFA.png",
+		"id": "6",
+		"state": "连载中",
+		"clickNum": "70000",
+		"introduce":"世纪初，OK横扫千军、活塞蓝领无敌、马刺单数年必胜、太阳快打旋风，篮球世界百家争鸣。李昂微微一笑，看着各位大哥:"
+	}, {
+		"name": "大明1392",
+		"author": "心灵之尘",
+		"pigurl":"https://z3.ax1x.com/2021/11/04/IVLZFA.png",
+		"id": "7",
+		"type":"年代风云",
+		"state": "连载中",
+		"clickNum": "20000",
+		"introduce":"世纪初，OK横扫千军、活塞蓝领无敌、马刺单数年必胜、太阳快打旋风，篮球世界百家争鸣。李昂微微一笑，看着各位大哥:"
+	}, {
+		"name": "1932铁血胡子头",
+		"author": "沙发熊",
+		"pigurl":"https://z3.ax1x.com/2021/11/04/IVLZFA.png",
+		"id": "8",
+		"type":"历史军事",
+		"state": "连载中",
+		"clickNum": "15000",
+		"introduce":"世纪初，OK横扫千军、活塞蓝领无敌、马刺单数年必胜、太阳快打旋风，篮球世界百家争鸣。李昂微微一笑，看着各位大哥:"
+	}, {
+		"name": "特种部队之复仇军刀",
+		"author": "严七官",
+		"pigurl":"https://z3.ax1x.com/2021/11/04/IVLZFA.png",
+		"id": "9",
+		"type":"历史军事",
+		"state": "连载中",
+		"clickNum": "12000",
+		"introduce":"世纪初，OK横扫千军、活塞蓝领无敌、马刺单数年必胜、太阳快打旋风，篮球世界百家争鸣。李昂微微一笑，看着各位大哥:"
+	}, {
+		"name": "抗战之浴血刀锋",
+		"author": "豆包",
+		"pigurl":"https://z3.ax1x.com/2021/11/04/IVLZFA.png",
+		"id": "10",
+		"type":"历史军事",
+		"state": "连载中",
+		"clickNum": "11000",
+		"introduce":"世纪初，OK横扫千军、活塞蓝领无敌、马刺单数年必胜、太阳快打旋风，篮球世界百家争鸣。李昂微微一笑，看着各位大哥:"
+	}, {
+		"name": "1978大浪淘沙",
+		"author": "一骑红尘",
+		"pigurl":"https://z3.ax1x.com/2021/11/04/IVLZFA.png",
+		"id": "11",
+		"type":"历史军事",
+		"state": "连载中",
+		"clickNum": "9000",
+		"introduce":"世纪初，OK横扫千军、活塞蓝领无敌、马刺单数年必胜、太阳快打旋风，篮球世界百家争鸣。李昂微微一笑，看着各位大哥:"
+	}, {
+		"name": "谍影诡战",
+		"author": "半夏",
+		"pigurl":"https://z3.ax1x.com/2021/11/04/IVLZFA.png",
+		"id": "12",
+		"type":"历史军事",
+		"state": "连载中",
+		"clickNum": "8000",
+		"introduce":"世纪初，OK横扫千军、活塞蓝领无敌、马刺单数年必胜、太阳快打旋风，篮球世界百家争鸣。李昂微微一笑，看着各位大哥:"
+	}, {
+		"name": "惊悚密室",
+		"author": "无名的甲鱼",
+		"pigurl":"https://z3.ax1x.com/2021/11/04/IVLZFA.png",
+		"id": "13",
+		"type":"是疑灵异",
+		"state": "连载中",
+		"clickNum": "7000",
+		"introduce":"世纪初，OK横扫千军、活塞蓝领无敌、马刺单数年必胜、太阳快打旋风，篮球世界百家争鸣。李昂微微一笑，看着各位大哥:"
+	}, {
+		"name": "永恒之书",
+		"author": "莫悼非",
+		"pigurl":"https://z3.ax1x.com/2021/11/04/IVLZFA.png",
+		"id": "14",
+		"type":"武侠仙侠",
+		"state": "连载中",
+		"clickNum": "6000",
+		"introduce":"世纪初，OK横扫千军、活塞蓝领无敌、马刺单数年必胜、太阳快打旋风，篮球世界百家争鸣。李昂微微一笑，看着各位大哥:"
+	}]
+}

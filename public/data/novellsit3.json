@@ -1,0 +1,24 @@
+{
+	"hasTaste": false,
+	"code": 200,
+	"category": 0,
+	"result": [ {
+		"name": "大秦仙师",
+		"author": "牧尘客",
+		"pigurl":"https://z3.ax1x.com/2021/11/04/IVLZFA.png",
+		"id": "1",
+		"type":"武侠仙侠",
+		"state": "连载中",
+		"clickNum": "260000",
+		"introduce":"回到明末,沦落为奴,这皇帝,乞丐做得,建奴做得,流寇做得,家奴就做不得?"
+	}, {
+		"name": "永恒之书",
+		"author": "莫悼非",
+		"pigurl":"https://z3.ax1x.com/2021/11/04/IVLZFA.png",
+		"id": "2",
+		"type":"武侠仙侠",
+		"state": "连载中",
+		"clickNum": "6000",
+		"introduce":"世纪初，OK横扫千军、活塞蓝领无敌、马刺单数年必胜、太阳快打旋风，篮球世界百家争鸣。李昂微微一笑，看着各位大哥:"
+	}]
+}
